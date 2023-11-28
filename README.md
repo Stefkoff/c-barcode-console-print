@@ -6,7 +6,7 @@ This code will generate a barcode representation for a given barcode number.<br>
 Currently support barcodes are: EAN-13 and UPC-A
 
 # Demo
-See the screenshots
+![Screenshot](screenshots/img.png)
 
 # Build
 1. mkdir build
