@@ -336,5 +336,9 @@ int main(int argc, const char **argv) {
         }
     }
 
+    barcodePadded = NULL;
+    barcodeWithCheckDigit = NULL;
+    barcodeData = NULL;
+
     return 0;
 }
